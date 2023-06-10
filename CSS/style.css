@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp3611698.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+#col-input {
+    background-color: rgba(0, 0, 0, 0.2);
+}
